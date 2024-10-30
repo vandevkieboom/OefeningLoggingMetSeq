@@ -1,0 +1,6 @@
+@OefeningLoggingMetSeq_HostAddress = http://localhost:5047
+
+GET {{OefeningLoggingMetSeq_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
